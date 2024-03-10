@@ -4,8 +4,7 @@ Welcome to ASMR-Music Player, a unique music player application developed with R
 
 ## YouTube link
 
-[![ramialkaro]([https://youtu.be/RMlD9Ly4JRE](https://youtu.be/J9FCfIX26to)])
-
+https://youtu.be/J9FCfIX26to 
 ## Screenshots
 
 ![Screenshot 1](screenshots/1.png)

@@ -1,6 +1,6 @@
 # ASMR-Music Player Readme
 
-Welcome to ASMR-Music Player, a unique music player application developed with ReactJS and TailwindCSS. This innovative music player not only lets you enjoy your favorite tunes but also integrates ASMR sounds for a relaxing listening experience.
+Welcome to ASMR-Music Player, a unique music player application developed with ReactJS and TailwindCSS. This innovative music player not only lets you enjoy your favorite tunes.
 
 ## YouTube link
 
@@ -13,16 +13,13 @@ Welcome to ASMR-Music Player, a unique music player application developed with R
 ## Features
 
 - **Play Music:** Stream your favorite tracks seamlessly.
-- **ASMR Integration:** Enhance your listening experience with calming ASMR sounds.
-- **Playlist Management:** Create, edit, and delete playlists to organize your music.
 - **Background Play:** Continue listening to your music while using other apps.
-- **Volume Control:** Adjust the volume of music and ASMR sounds independently.
+- **Volume Control:** Adjust the volume of music independently.
 
 ## Technologies Used
 
-- **ReactJS:** Utilized for building the user interface, ensuring a smooth and responsive experience.
-- **TailwindCSS:** Employed to design a visually appealing and intuitive interface quickly.
-- **Web Audio API:** Leveraged for managing audio playback and integrating ASMR sounds.
+- **ReactJS**: A popular JavaScript library for building user interfaces.
+- **TailwindCSS**: A utility-first CSS framework for creating custom designs quickly.
 
 ## Installation and Usage
 
@@ -34,7 +31,7 @@ Welcome to ASMR-Music Player, a unique music player application developed with R
 
 ## How to Contribute
 
-We encourage contributions! To contribute enhancements, new features, or fixes to ASMR-Music Player, please follow these steps:
+We encourage contributions! To contribute enhancements, new features, or fixes to Music Player, please follow these steps:
 
 1. Fork the repository.
 2. Switch to a new branch for your feature (`git checkout -b feature/new-feature`).
